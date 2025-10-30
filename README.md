@@ -1,4 +1,5 @@
 # Machine-Learning
 complete machine Learning 
 
-[Run the code](https://mybinder.org/v2/gh/Priyansu-Rout/Machine-Learning.git/HEAD)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Priyansu-Rout/Machine-Learning.git/HEAD)
